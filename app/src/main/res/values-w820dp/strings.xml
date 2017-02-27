@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_pet_name">Name</string>
+    <string name="hint_item_description">Description</string>
+    <string name="category_in_stock">In Stock</string>
+    <string name="quantity">Quantity</string>
+    <string name="no_of_units">Number of units</string>
+    <string name="unit_label">pcs</string>
+    <string name="empty_view_title_text">It\'s so empty out here......</string>
+    <string name="empty_view_subtitle_text">Try adding some new items to the inventory</string>
+    <string name="unknown_item">Unknown Item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+    <string name="editor_insert_item_failed">Insert item Failed</string>
+    <string name="editor_insert_item_successful">Insert Item Succesfull</string>
+    <string name="editor_update_item_failed">Item Update Failed</string>
+    <string name="editor_update_item_successful">Update Item Succesfull</string>
+    <string name="action_save">Save</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this item ?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_item_failed">Deleteing an item failed</string>
+    <string name="editor_delete_item_successful">Item has been deleted succesfully</string>
+</resources>
